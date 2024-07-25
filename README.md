@@ -4,7 +4,7 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="right" alt="Coding" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmehtabkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdmehtabkhan" /> </p>
+<p align="left"> <img src="https://wallpaperaccess.com/full/3632449.jpg" alt="mdmehtabkhan" /> </p>
 
 - 🌱 I’m currently learning **React.js, Python**
 
