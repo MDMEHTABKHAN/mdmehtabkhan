@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-
 <p align="left"> <img src="" alt="mdmehtabkhan" /> </p>
 
 - 🌱 I’m currently learning **React.js, Python**
