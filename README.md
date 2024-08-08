@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Mehtab Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="right" alt="Coding" width="400">
+
 
 <p align="left"> <img src="" alt="mdmehtabkhan" /> </p>
 
